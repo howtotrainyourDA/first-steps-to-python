@@ -1,1 +1,1 @@
-trying to understand github and see what it's used for. new tocoding/data/tech related stuff
+trying to understand github and see what it's used for. new to coding/data/tech related stuff
